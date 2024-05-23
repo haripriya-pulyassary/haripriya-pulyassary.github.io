@@ -79,7 +79,7 @@ Presented at the _INFORMS 2023 Annual Meeting_
 
 <span style="color:gray">__Constant-factor distortion mechanisms for _k_-committee election__</span>\
 Haripriya Pulyassary and Chaitanya Swamy\
-_Working paper (2023)_
+_Working paper (2024)_
 
 ---
 
