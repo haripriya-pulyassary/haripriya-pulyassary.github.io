@@ -45,7 +45,16 @@ _IPCO 2024_\
 <button class="button button3">PDF</button></a>
 
 
-Presented at the ORIE advisory council meeting (May 2024); NYC Joint PhD colloquium (May 2024). 
+Also presented at the 25th International Symposium on Mathematical Programming (July 2024) and the INFORMS 2024 Annual Meeting. <!-- the ORIE advisory council meeting (May 2024), and the NYC Joint PhD colloquium (May 2024). -->
+
+---
+__Market design for dynamic pricing and pooling in capacitated networks__ \
+Saurabh Amin, Patrick Jaillet, Haripriya Pulyassary, and Manxi Wu\
+_ WINE 2024_\
+<a href="https://arxiv.org/abs/2307.03994">
+<button class="button button3">PDF</button></a>
+
+<!-- Presented at the _INFORMS 2023 Annual Meeting_ -->
 
 ---
 
@@ -66,16 +75,6 @@ _Mathematical Programming (2021)_\
 
 ---
 
-
-<!-- <span style="color:gray"> __Market design for dynamic pricing and pooling in capacitated networks__ </span> \
-Saurabh Amin, Patrick Jaillet, Haripriya Pulyassary, and Manxi Wu\
-_ (2023)_\
-<a href="https://arxiv.org/abs/2307.03994">
-<button class="button button3">PDF</button></a>
-
-Presented at the _INFORMS 2023 Annual Meeting_
-
---- -->
 
 <!-- <span style="color:gray">__Constant-factor distortion mechanisms for _k_-committee election__</span>\
 Haripriya Pulyassary and Chaitanya Swamy\
