@@ -38,6 +38,10 @@ author_profile: true
 {% endfor %} -->
 
 
+<span style="color:gray">__Constant-factor distortion mechanisms for _k_-committee election__</span>\
+Haripriya Pulyassary and Chaitanya Swamy\
+_AAAI 2025_
+
 __Network Flow Problems with Electric Vehicles__\
 Haripriya Pulyassary, Kostas Kollias, Aaron Schild, David Shmoys, and Manxi Wu\
 _IPCO 2024_\
@@ -76,9 +80,6 @@ _Mathematical Programming (2021)_\
 ---
 
 
-<!-- <span style="color:gray">__Constant-factor distortion mechanisms for _k_-committee election__</span>\
-Haripriya Pulyassary and Chaitanya Swamy\
-_Working paper (2024)_ -->
 
 <!-- --- -->
 
