@@ -56,7 +56,7 @@ Also presented at the 25th International Symposium on Mathematical Programming (
 ---
 __Market design for dynamic pricing and pooling in capacitated networks__ \
 Saurabh Amin, Patrick Jaillet, Haripriya Pulyassary, and Manxi Wu\
-_ WINE 2024_\
+_WINE 2024_\
 <a href="https://arxiv.org/abs/2307.03994">
 <button class="button button3">PDF</button></a>
 
