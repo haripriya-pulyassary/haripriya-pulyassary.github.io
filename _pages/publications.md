@@ -46,13 +46,17 @@ _Working paper (2026)_
 
 __Adaptive sampling algorithms for minimum-norm _k_-clustering__\
 Haripriya Pulyassary and Chaitanya Swamy\
-_European Symposium on Algorithms (ESA) 2026_
+_European Symposium on Algorithms (ESA) 2026_\
+<a href="https://arxiv.org/abs/2607.12421">
+<button class="button button3">PDF</button></a>
 
 ---
 
 __Constant-factor distortion mechanisms for _k_-committee election__\
 Haripriya Pulyassary and Chaitanya Swamy\
-_AAAI 2025_ (Oral paper)
+_AAAI 2025_ (Oral paper)\
+<a href="https://arxiv.org/abs/2501.19148">
+<button class="button button3">PDF</button></a>
 
 ---
 
