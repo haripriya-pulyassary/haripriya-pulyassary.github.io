@@ -38,15 +38,27 @@ author_profile: true
 {% endfor %} -->
 
 
+<span style="color:gray">__Infrastructure Design for Heavy-duty Electric Vehicles__</span>\
+Haripriya Pulyassary, David Shmoys, and Manxi Wu\
+_Working paper (2026)_
+
+---
+
+__Adaptive sampling algorithms for minimum-norm _k_-clustering__\
+Haripriya Pulyassary and Chaitanya Swamy\
+_European Symposium on Algorithms (ESA) 2026_
+
+---
+
 __Constant-factor distortion mechanisms for _k_-committee election__\
 Haripriya Pulyassary and Chaitanya Swamy\
-_AAAI 2025_
+_AAAI 2025_ (Oral paper)
 
 ---
 
 __Network Flow Problems with Electric Vehicles__\
 Haripriya Pulyassary, Kostas Kollias, Aaron Schild, David Shmoys, and Manxi Wu\
-_IPCO 2024_\
+_Mathematical Programming B (2025); IPCO 2024_\
 <a href="https://arxiv.org/abs/2311.05040">
 <button class="button button3">PDF</button></a>
 
@@ -54,7 +66,7 @@ _IPCO 2024_\
 Also presented at the 25th International Symposium on Mathematical Programming (July 2024) and the INFORMS 2024 Annual Meeting. <!-- the ORIE advisory council meeting (May 2024), and the NYC Joint PhD colloquium (May 2024). -->
 
 ---
-__Market design for dynamic pricing and pooling in capacitated networks__ \
+__Market Design for Capacity Sharing in Networks__ \
 Saurabh Amin, Patrick Jaillet, Haripriya Pulyassary, and Manxi Wu\
 _WINE 2024_\
 <a href="https://arxiv.org/abs/2307.03994">
